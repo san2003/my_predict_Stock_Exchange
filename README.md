@@ -1,1 +1,1 @@
-# my_predict_Stock_Exchange
+Previsor de bolsa de valores
